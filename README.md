@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mabumamushi
+- 👀 I’m interested in Xcode and Swift.
+- 🌱 I’m currently learning Xcode and Swift.
